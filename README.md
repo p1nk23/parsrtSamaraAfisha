@@ -32,27 +32,6 @@ curl http://localhost:8081/events
 
 Данные БД хранятся в Docker volume `postgres_data`.
 
-## Подключение фронта для тестирования
-
-Во фронте временно укажи API URL:
-
-```env
-VITE_API_URL=http://localhost:8081
-VITE_PARSER_API_URL=http://localhost:8081
-```
-
-Фронт может читать события так:
-
-```ts
-const events = await fetch("http://localhost:8081/events").then((r) => r.json());
-```
-
-А запускать импорт так:
-
-```ts
-await fetch("http://localhost:8081/parse/yandex-afisha", { method: "POST" });
-```
-
 ## API
 
 ### `GET /health`
