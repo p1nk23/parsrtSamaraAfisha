@@ -1,0 +1,354 @@
+[
+  {
+    "id": 1,
+    "title": "Женский стендап",
+    "shortDescription": "l-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.9476 21.4473C6.65888 16.5508 2.96701 13.0385 1.87193 10.9102C0.318814 7.89182 1.06246 4.89043 2.37464 3.24923C3.71899 1.5678 5.30995 1.0…",
+    "fullDescription": "l-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.9476 21.4473C6.65888 16.5508 2.96701 13.0385 1.87193 10.9102C0.318814 7.89182 1.06246 4.89043 2.37464 3.24923C3.71899 1.5678 5.30995 1.00388 7.02621 1.00388C9.39648 1.00388 11.3873 2.27103 12.9988 4.80533C14.6106 2.26844 16.6023 1 18.9738 1C20.69 1 22.281 1.56392 23.6254 3.24535C24.9375 4.88655 25.6812 7.88794 24.1281 10.9063C23.033 13.0346 19.3062 16.5482 12.9476 21.4473Z\" stroke=\"#FFF\" fill=\"transparent\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-linejoin=\"round\" data-test-id=\"heartIcon.path\"\u003e 7.8 от 1 500 ₽ до 10% Женский стендап 17 мая, 19:00 МТЛ Арена от 2 500 ₽ до 10% MONA 26 мая, 20:00 Метелица-С \u003cspan class=\"Inner-sc-",
+    "category": "other",
+    "coverImageUrl": "https://avatars.mds.yandex.net/get-afishanew/5109582/58825f8096fe33e73866cd5a69edd00d/s380x220",
+    "organizerName": "Яндекс Афиша",
+    "organizerDescription": "Импортировано из Яндекс Афиши",
+    "status": "published",
+    "createdAt": "2026-05-07T08:44:29Z",
+    "updatedAt": "2026-05-07T08:44:29Z",
+    "eventSessions": [
+      {
+        "id": 1,
+        "startAt": "2026-05-07T08:44:29Z",
+        "is_online": false,
+        "ticketMinPrice": 1500,
+        "ticketMaxPrice": 2500,
+        "currency": "RUB",
+        "ticketUrl": "https://afisha.yandex.ru/samara/concert/mona-tour?source=selection-events\u0026selectionPage=hot\u0026refererSelection=main_page_landing\u0026refererSurface=selection",
+        "ticketServiceName": "Яндекс Афиша",
+        "status": "published",
+        "createdAt": "2026-05-07T08:44:29Z",
+        "updatedAt": "2026-05-07T08:44:29Z",
+        "venue": {
+          "name": "Самара",
+          "address": "Самара"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Руки Вверх!",
+    "shortDescription": "1899 1.5678 5.30995 1.00388 7.02621 1.00388C9.39648 1.00388 11.3873 2.27103 12.9988 4.80533C14.6106 2.26844 16.6023 1 18.9738 1C20.69 1 22.281 1.56392 23.6254 3.24535C24.9375 4.886…",
+    "fullDescription": "1899 1.5678 5.30995 1.00388 7.02621 1.00388C9.39648 1.00388 11.3873 2.27103 12.9988 4.80533C14.6106 2.26844 16.6023 1 18.9738 1C20.69 1 22.281 1.56392 23.6254 3.24535C24.9375 4.88655 25.6812 7.88794 24.1281 10.9063C23.033 13.0346 19.3062 16.5482 12.9476 21.4473Z\" stroke=\"#FFF\" fill=\"transparent\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-linejoin=\"round\" data-test-id=\"heartIcon.path\"\u003e от 2 700 ₽ до 10% Руки Вверх! 6 июня, 20:00 Солидарность Арена 7.8 от 1 500 ₽ до 10% Женский стендап 17 мая, 19:00 МТЛ Арена \u003ca class=\"wQ7tQ3\" href=\"/samara/concert/mona-tour?source=selection-events\u0026selectionPage=hot\u0026refererSelection=main_page_l",
+    "category": "other",
+    "coverImageUrl": "https://avatars.mds.yandex.net/get-afishanew/28638/a10f13973c1a3ccfacac004f0efde212/s380x220",
+    "organizerName": "Яндекс Афиша",
+    "organizerDescription": "Импортировано из Яндекс Афиши",
+    "status": "published",
+    "createdAt": "2026-05-07T08:44:29Z",
+    "updatedAt": "2026-05-07T08:44:29Z",
+    "eventSessions": [
+      {
+        "id": 2,
+        "startAt": "2026-05-07T08:44:29Z",
+        "is_online": false,
+        "ticketMinPrice": 1500,
+        "ticketMaxPrice": 2700,
+        "currency": "RUB",
+        "ticketUrl": "https://afisha.yandex.ru/samara/standup/zhenskiy-stendap-tour?source=selection-events\u0026selectionPage=hot\u0026refererSelection=main_page_landing\u0026refererSurface=selection",
+        "ticketServiceName": "Яндекс Афиша",
+        "status": "published",
+        "createdAt": "2026-05-07T08:44:29Z",
+        "updatedAt": "2026-05-07T08:44:29Z",
+        "venue": {
+          "name": "Самара",
+          "address": "Самара"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Сергей Лазарев",
+    "shortDescription": "0533C14.6106 2.26844 16.6023 1 18.9738 1C20.69 1 22.281 1.56392 23.6254 3.24535C24.9375 4.88655 25.6812 7.88794 24.1281 10.9063C23.033 13.0346 19.3062 16.5482 12.9476 21.4473Z\" str…",
+    "fullDescription": "0533C14.6106 2.26844 16.6023 1 18.9738 1C20.69 1 22.281 1.56392 23.6254 3.24535C24.9375 4.88655 25.6812 7.88794 24.1281 10.9063C23.033 13.0346 19.3062 16.5482 12.9476 21.4473Z\" stroke=\"#FFF\" fill=\"transparent\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-linejoin=\"round\" data-test-id=\"heartIcon.path\"\u003e от 4 500 ₽ до 10% Сергей Лазарев 30 и 31 мая СКК Дворец спорта им. Высоцкого от 2 700 ₽ до 10% Руки Вверх! 6 июня, 20:00 Солидарность Арена 7.8 \u003c/s",
+    "category": "other",
+    "coverImageUrl": "https://avatars.mds.yandex.net/get-afishanew/5109582/4538c6647c997f03d5d80fbe20ac12db/s380x220",
+    "organizerName": "Яндекс Афиша",
+    "organizerDescription": "Импортировано из Яндекс Афиши",
+    "status": "published",
+    "createdAt": "2026-05-07T08:44:29Z",
+    "updatedAt": "2026-05-07T08:44:29Z",
+    "eventSessions": [
+      {
+        "id": 3,
+        "startAt": "2026-05-07T08:44:29Z",
+        "is_online": false,
+        "ticketMinPrice": 2700,
+        "ticketMaxPrice": 4500,
+        "currency": "RUB",
+        "ticketUrl": "https://afisha.yandex.ru/samara/concert/ruki-vverkh-stadionnyi-tour?source=selection-events\u0026selectionPage=hot\u0026refererSelection=main_page_landing\u0026refererSurface=selection",
+        "ticketServiceName": "Яндекс Афиша",
+        "status": "published",
+        "createdAt": "2026-05-07T08:44:29Z",
+        "updatedAt": "2026-05-07T08:44:29Z",
+        "venue": {
+          "name": "Самара",
+          "address": "Самара"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Лолита",
+    "shortDescription": "ef=\"/samara/concert/lolita-16?source=selection-events\u0026selectionPage=hot\u0026refererSelection=main_page_landing\u0026refererSurface=selection\" data-test-id=\"eventCard.link\" class=\"ZOio1C\" ar…",
+    "fullDescription": "ef=\"/samara/concert/lolita-16?source=selection-events\u0026selectionPage=hot\u0026refererSelection=main_page_landing\u0026refererSurface=selection\" data-test-id=\"eventCard.link\" class=\"ZOio1C\" aria-label=\"Лолита\"\u003e от 2 700 ₽ до 10% Лолита 14 апреля 2027, 19:00 МТЛ Арена от 4 000 ₽ до 10% Zoloto 15 мая, 19:00 Сигнал от 5 000 ₽ до 10% Стас Михайлов 22 и 23 мая Филармония \u003cdiv class=\"SnFh7h\" data-test-id=\"favorite.favo",
+    "category": "other",
+    "coverImageUrl": "https://avatars.mds.yandex.net/get-afishanew/5109582/eb660528378be606bbca37b39b5e01fb/s380x220",
+    "organizerName": "Яндекс Афиша",
+    "organizerDescription": "Импортировано из Яндекс Афиши",
+    "status": "published",
+    "createdAt": "2026-05-07T08:44:29Z",
+    "updatedAt": "2026-05-07T08:44:29Z",
+    "eventSessions": [
+      {
+        "id": 4,
+        "startAt": "2026-05-07T08:44:29Z",
+        "is_online": false,
+        "ticketMinPrice": 2700,
+        "ticketMaxPrice": 5000,
+        "currency": "RUB",
+        "ticketUrl": "https://afisha.yandex.ru/samara/concert/zoloto-tour?source=selection-events\u0026selectionPage=hot\u0026refererSelection=main_page_landing\u0026refererSurface=selection#schedule",
+        "ticketServiceName": "Яндекс Афиша",
+        "status": "published",
+        "createdAt": "2026-05-07T08:44:29Z",
+        "updatedAt": "2026-05-07T08:44:29Z",
+        "venue": {
+          "name": "Филармония \u003cdiv class=\"SnFh7h\" data-test-id=\"favorite.favo",
+          "address": "Самара"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Диана Арбенина и Ночные Снайперы",
+    "shortDescription": "currentColor\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.58579 6L3.29289 6.70711L7.29289 10.7071L8 11.4142L8.70711 10.7071L12.7071 6.70711L13.4142 6L12 4.58579L11.2929 5.29289L8…",
+    "fullDescription": "currentColor\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.58579 6L3.29289 6.70711L7.29289 10.7071L8 11.4142L8.70711 10.7071L12.7071 6.70711L13.4142 6L12 4.58579L11.2929 5.29289L8 8.58579L4.70711 5.29289L4 4.58579L2.58579 6Z\"\u003e от 3 000 ₽ до 10% Диана Арбенина и Ночные Снайперы 26 мая, 19:00 СКК Дворец спорта им. Высоцкого от 2 700 ₽ до 10% Лолита 14 апреля 2027, 19:00 МТЛ Арена \u003cspan",
+    "category": "other",
+    "coverImageUrl": "https://avatars.mds.yandex.net/get-afishanew/4768735/3a1e6a551de1ce9dd24ba8c5337a31df/s380x220",
+    "organizerName": "Яндекс Афиша",
+    "organizerDescription": "Импортировано из Яндекс Афиши",
+    "status": "published",
+    "createdAt": "2026-05-07T08:44:29Z",
+    "updatedAt": "2026-05-07T08:44:29Z",
+    "eventSessions": [
+      {
+        "id": 5,
+        "startAt": "2026-05-07T08:44:29Z",
+        "is_online": false,
+        "ticketMinPrice": 2700,
+        "ticketMaxPrice": 3000,
+        "currency": "RUB",
+        "ticketUrl": "https://afisha.yandex.ru/samara/concert/lolita-16?source=selection-events\u0026selectionPage=hot\u0026refererSelection=main_page_landing\u0026refererSurface=selection",
+        "ticketServiceName": "Яндекс Афиша",
+        "status": "published",
+        "createdAt": "2026-05-07T08:44:29Z",
+        "updatedAt": "2026-05-07T08:44:29Z",
+        "venue": {
+          "name": "Самара",
+          "address": "Самара"
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Александр Розенбаум",
+    "shortDescription": "rame-fp9imb-2 dJgoyd\"\u003e от 5 000 ₽ до 10% Александр Розенбаум 5 и 6 июня Филармония от 4 500 ₽ до 10% Сергей Лазарев 30 и 31 мая СКК Дворец спорта им. Высоцкого \u003cimg class=\"jYbobS D…",
+    "fullDescription": "rame-fp9imb-2 dJgoyd\"\u003e от 5 000 ₽ до 10% Александр Розенбаум 5 и 6 июня Филармония от 4 500 ₽ до 10% Сергей Лазарев 30 и 31 мая СКК Дворец спорта им. Высоцкого \u003cimg class=\"jYbobS D1cbkB lazy\" data-src=\"https://avatars.mds.yandex.net/get-afishanew/28638/a10f13973c1a3ccfacac004f0efde212/s380x220\" data-srcset=\"https://avatars.mds.yandex.net/get-afishanew/28638/a10f13973c1a3ccfacac00",
+    "category": "other",
+    "coverImageUrl": "https://avatars.mds.yandex.net/get-afishanew/4395007/b9448eb76b32695053693ecfa6053eff/s380x220",
+    "organizerName": "Яндекс Афиша",
+    "organizerDescription": "Импортировано из Яндекс Афиши",
+    "status": "published",
+    "createdAt": "2026-05-07T08:44:29Z",
+    "updatedAt": "2026-05-07T08:44:29Z",
+    "eventSessions": [
+      {
+        "id": 6,
+        "startAt": "2026-05-07T08:44:29Z",
+        "is_online": false,
+        "ticketMinPrice": 4500,
+        "ticketMaxPrice": 5000,
+        "currency": "RUB",
+        "ticketUrl": "https://afisha.yandex.ru/samara/concert/sergei-lazarev-shoumen?source=selection-events\u0026selectionPage=hot\u0026refererSelection=main_page_landing\u0026refererSurface=selection",
+        "ticketServiceName": "Яндекс Афиша",
+        "status": "published",
+        "createdAt": "2026-05-07T08:44:29Z",
+        "updatedAt": "2026-05-07T08:44:29Z",
+        "venue": {
+          "name": "Филармония от 4 500 ₽ до 10% Сергей Лазарев 30 и 31 мая СКК Дворец спорта им. Вы",
+          "address": "Самара"
+        }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Стас Михайлов",
+    "shortDescription": "rSelection=main_page_landing\u0026refererSurface=selection\" data-test-id=\"eventCard.link\" class=\"ZOio1C\" aria-label=\"Стас Михайлов\"\u003e от 5 000 ₽ до 10% Стас Михайлов 22 и 23 мая Филармон…",
+    "fullDescription": "rSelection=main_page_landing\u0026refererSurface=selection\" data-test-id=\"eventCard.link\" class=\"ZOio1C\" aria-label=\"Стас Михайлов\"\u003e от 5 000 ₽ до 10% Стас Михайлов 22 и 23 мая Филармония от 5 000 ₽ до 10% Александр Розенбаум 5 и 6 июня Филармония от 4 500 ₽ до 10% Сергей Лазарев 30 и 31 мая СКК Дворец спорта им. Высоцкого \u003cdiv class=\"kcn_pW t9kyGa\" data-test-id=\"event-card-fa",
+    "category": "other",
+    "coverImageUrl": "https://avatars.mds.yandex.net/get-afishanew/4768735/4595cc7ced2e353b98716e4cd365d8b1/s380x220",
+    "organizerName": "Яндекс Афиша",
+    "organizerDescription": "Импортировано из Яндекс Афиши",
+    "status": "published",
+    "createdAt": "2026-05-07T08:44:29Z",
+    "updatedAt": "2026-05-07T08:44:29Z",
+    "eventSessions": [
+      {
+        "id": 7,
+        "startAt": "2026-05-07T08:44:29Z",
+        "is_online": false,
+        "ticketMinPrice": 4500,
+        "ticketMaxPrice": 5000,
+        "currency": "RUB",
+        "ticketUrl": "https://afisha.yandex.ru/samara/concert/aleksandr-rozenbaum-tour?source=selection-events\u0026selectionPage=hot\u0026refererSelection=main_page_landing\u0026refererSurface=selection#schedule",
+        "ticketServiceName": "Яндекс Афиша",
+        "status": "published",
+        "createdAt": "2026-05-07T08:44:29Z",
+        "updatedAt": "2026-05-07T08:44:29Z",
+        "venue": {
+          "name": "Филармония от 5 000 ₽ до 10% Александр Розенбаум 5 и 6 июня Филармония от 4 500",
+          "address": "Самара"
+        }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "OG Buda",
+    "shortDescription": "=\"kzfGcP v8w3L8\" data-event-id=\"676e7d39ecb85d004677f63f\" data-component=\"EventCard\" data-test-id=\"eventCard.root\"\u003e от 2 500 ₽ до 10% OG Buda 24 июля, 20:00 Roof Live от 2 300 ₽ до…",
+    "fullDescription": "=\"kzfGcP v8w3L8\" data-event-id=\"676e7d39ecb85d004677f63f\" data-component=\"EventCard\" data-test-id=\"eventCard.root\"\u003e от 2 500 ₽ до 10% OG Buda 24 июля, 20:00 Roof Live от 2 300 ₽ до 10% Пилот 10 октября, 20:00 Сигнал от 2 000 ₽ до 10% Boulevard Depo 1 ноября, 20:00 Метелица-С \u003clabel data-component=\"JellyAnimation\" data-test-id=\"jellyAnimation.root\" class=\"Label-fp9imb",
+    "category": "other",
+    "coverImageUrl": "https://avatars.mds.yandex.net/get-afishanew/4395007/94970745219d9c218744f19505cd1c58/s380x220",
+    "organizerName": "Яндекс Афиша",
+    "organizerDescription": "Импортировано из Яндекс Афиши",
+    "status": "published",
+    "createdAt": "2026-05-07T08:44:29Z",
+    "updatedAt": "2026-05-07T08:44:29Z",
+    "eventSessions": [
+      {
+        "id": 8,
+        "startAt": "2026-05-07T08:44:29Z",
+        "is_online": false,
+        "ticketMinPrice": 2000,
+        "ticketMaxPrice": 2500,
+        "currency": "RUB",
+        "ticketUrl": "https://afisha.yandex.ru/samara/concert/pilot-tour?source=selection-events\u0026selectionPage=hot\u0026refererSelection=main_page_landing\u0026refererSurface=selection#schedule",
+        "ticketServiceName": "Яндекс Афиша",
+        "status": "published",
+        "createdAt": "2026-05-07T08:44:29Z",
+        "updatedAt": "2026-05-07T08:44:29Z",
+        "venue": {
+          "name": "Самара",
+          "address": "Самара"
+        }
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Пилот",
+    "shortDescription": "vent-id=\"65a947de7c824700600dcde2\" data-component=\"EventCard\" data-test-id=\"eventCard.root\"\u003e от 2 300 ₽ до 10% Пилот 10 октября, 20:00 Сигнал от 2 000 ₽ до 10% Boulevard Depo 1 ноя…",
+    "fullDescription": "vent-id=\"65a947de7c824700600dcde2\" data-component=\"EventCard\" data-test-id=\"eventCard.root\"\u003e от 2 300 ₽ до 10% Пилот 10 октября, 20:00 Сигнал от 2 000 ₽ до 10% Boulevard Depo 1 ноября, 20:00 Метелица-С Показать ещё Самара Афиша событий Ожидаемые концерты Подпишитесь на акции и анонсы событий Далее Яндекс Афиша \u003ca href=\"https://yandex.ru/support/afisha/ind",
+    "category": "other",
+    "coverImageUrl": "https://avatars.mds.yandex.net/get-afishanew/4487581/ecf4aa824efce1f5bd3b9ff70d3392f3/s380x220",
+    "organizerName": "Яндекс Афиша",
+    "organizerDescription": "Импортировано из Яндекс Афиши",
+    "status": "published",
+    "createdAt": "2026-05-07T08:44:29Z",
+    "updatedAt": "2026-05-07T08:44:29Z",
+    "eventSessions": [
+      {
+        "id": 9,
+        "startAt": "2026-05-07T08:44:29Z",
+        "is_online": false,
+        "ticketMinPrice": 2000,
+        "ticketMaxPrice": 2300,
+        "currency": "RUB",
+        "ticketUrl": "https://afisha.yandex.ru/samara/concert/boulevard-depo-tour?source=selection-events\u0026selectionPage=hot\u0026refererSelection=main_page_landing\u0026refererSurface=selection#schedule",
+        "ticketServiceName": "Яндекс Афиша",
+        "status": "published",
+        "createdAt": "2026-05-07T08:44:29Z",
+        "updatedAt": "2026-05-07T08:44:29Z",
+        "venue": {
+          "name": "Самара",
+          "address": "Самара"
+        }
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Zoloto",
+    "shortDescription": "_page_landing\u0026refererSurface=selection\" data-test-id=\"eventCard.link\" class=\"ZOio1C\" aria-label=\"Zoloto\"\u003e от 4 000 ₽ до 10% Zoloto 15 мая, 19:00 Сигнал от 5 000 ₽ до 10% Стас Михай…",
+    "fullDescription": "_page_landing\u0026refererSurface=selection\" data-test-id=\"eventCard.link\" class=\"ZOio1C\" aria-label=\"Zoloto\"\u003e от 4 000 ₽ до 10% Zoloto 15 мая, 19:00 Сигнал от 5 000 ₽ до 10% Стас Михайлов 22 и 23 мая Филармония от 5 000 ₽ до 10% Александр Розенбаум 5 и 6 июня Филармония \u003cdiv class=\"SnFh7h\" data-test-id=\"favorite.favoriteButton\" aria-hidden=\"",
+    "category": "other",
+    "coverImageUrl": "https://avatars.mds.yandex.net/get-afishanew/4487581/31c9189582cf9f18839bb35de99e78d5/s380x220",
+    "organizerName": "Яндекс Афиша",
+    "organizerDescription": "Импортировано из Яндекс Афиши",
+    "status": "published",
+    "createdAt": "2026-05-07T08:44:29Z",
+    "updatedAt": "2026-05-07T08:44:29Z",
+    "eventSessions": [
+      {
+        "id": 10,
+        "startAt": "2026-05-07T08:44:29Z",
+        "is_online": false,
+        "ticketMinPrice": 4000,
+        "ticketMaxPrice": 5000,
+        "currency": "RUB",
+        "ticketUrl": "https://afisha.yandex.ru/samara/concert/stas-mikhailov-tour?source=selection-events\u0026selectionPage=hot\u0026refererSelection=main_page_landing\u0026refererSurface=selection#schedule",
+        "ticketServiceName": "Яндекс Афиша",
+        "status": "published",
+        "createdAt": "2026-05-07T08:44:29Z",
+        "updatedAt": "2026-05-07T08:44:29Z",
+        "venue": {
+          "name": "Филармония от 5 000 ₽ до 10% Александр Розенбаум 5 и 6 июня Филармония \u003cdiv clas",
+          "address": "Самара"
+        }
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "MONA",
+    "shortDescription": "8w3L8\" data-event-id=\"676285f2424e650045d89558\" data-component=\"EventCard\" data-test-id=\"eventCard.root\"\u003e от 2 500 ₽ до 10% MONA 26 мая, 20:00 Метелица-С от 2 500 ₽ до 10% OG Buda …",
+    "fullDescription": "8w3L8\" data-event-id=\"676285f2424e650045d89558\" data-component=\"EventCard\" data-test-id=\"eventCard.root\"\u003e от 2 500 ₽ до 10% MONA 26 мая, 20:00 Метелица-С от 2 500 ₽ до 10% OG Buda 24 июля, 20:00 Roof Live от 2 300 ₽ до 10% Пилот 10 октября, 20:00 Сигнал \u003cinp",
+    "category": "other",
+    "coverImageUrl": "https://avatars.mds.yandex.net/get-afishanew/5098259/60eaea407bf4ac0044bdd21dec0b2338/s380x220",
+    "organizerName": "Яндекс Афиша",
+    "organizerDescription": "Импортировано из Яндекс Афиши",
+    "status": "published",
+    "createdAt": "2026-05-07T08:44:29Z",
+    "updatedAt": "2026-05-07T08:44:29Z",
+    "eventSessions": [
+      {
+        "id": 11,
+        "startAt": "2026-05-07T08:44:29Z",
+        "is_online": false,
+        "ticketMinPrice": 2300,
+        "ticketMaxPrice": 2500,
+        "currency": "RUB",
+        "ticketUrl": "https://afisha.yandex.ru/samara/concert/og-buda-tour?source=selection-events\u0026selectionPage=hot\u0026refererSelection=main_page_landing\u0026refererSurface=selection#schedule",
+        "ticketServiceName": "Яндекс Афиша",
+        "status": "published",
+        "createdAt": "2026-05-07T08:44:29Z",
+        "updatedAt": "2026-05-07T08:44:29Z",
+        "venue": {
+          "name": "Самара",
+          "address": "Самара"
+        }
+      }
+    ]
+  }
+]
